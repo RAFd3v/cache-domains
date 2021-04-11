@@ -1,5 +1,3 @@
-gs2.ww.prod.dl.playstation.net
-gs2.sonycoment.loris-e.llnwd.net
 pls.patch.station.sony.com
 dl.playstation.net
 *.dl.playstation.net
@@ -35,3 +33,5 @@ playstation4.sony.akadns.net
 theia.dl.playstation.net
 tmdb.np.dl.playstation.net
 gs-sec.ww.np.dl.playstation.net
+gs2.ww.prod.dl.playstation.net
+gs2.sonycoment.loris-e.llnwd.net
